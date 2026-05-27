@@ -28,16 +28,16 @@ O sistema eletrônico de leitura do banco estático pode ser dividido nos seguin
 
 Célula de Carga:
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/b6fa966a-3833-4517-8101-f4248a06c5b7" />
+<img width="600" alt="image" src="./assets/celula.png" />
 
 Placa Principal:
 
-<img width="600" alt="banco_schema" src="https://github.com/user-attachments/assets/8e27ea3c-5388-4448-a3d2-04df4698995a" />
-<img width="600" alt="banco_board" src="https://github.com/user-attachments/assets/92ae8641-9864-4ae8-861c-bd92436707b1" />
+<img width="600" alt="banco_schema" src="./assets/esquema.png" />
+<img width="600" alt="banco_board" src="./assets/board.png" />
 
 ESP32 Remoto:
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/af568633-8b74-49cf-91e3-2699494f04c4" />
+<img width="600" alt="image" src="./assets/esp32.png" />
 
 ## Funcionamento
 
